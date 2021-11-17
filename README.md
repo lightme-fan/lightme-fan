@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Fanilo. I am one of Onja team members.
+- 👋 Hi, My name is Fanilo. I am a front-end developer from Maddagascar, one of Onja team members.
 - React js / React Native
 - Typescript
 - Redux
