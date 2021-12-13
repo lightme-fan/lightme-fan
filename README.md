@@ -7,7 +7,7 @@
   - React js / React Native
   - Typescript
   - Redux
-  - Cypress testing
+  - Cypress.io
 
 <!---
 lightme-fan/lightme-fan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
