@@ -1,4 +1,4 @@
-👋 Hi, my name is Fanilo. I am a front-end developer from Madagascar, one of Onja team members. I have covered a few technologies on front-end development which are:
+👋 Hi, my name is Fanilo. I am a front-end developer from Madagascar, one of Onja's team members. I have covered these front-end and mobile technologies: 
   - HTML
   - CSS3
   - SASS
