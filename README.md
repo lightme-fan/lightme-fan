@@ -11,7 +11,8 @@
   - Ant desing
   - Readthedocs
   - Docker
-  - Django(Python)
+  - Python
+  - URQL
 
 <!---
 lightme-fan/lightme-fan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
