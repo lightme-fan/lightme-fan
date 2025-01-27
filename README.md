@@ -14,6 +14,8 @@
   - Node js - Express js
   - Python
   - URQL
+  - Material UI
+  - Next js
 
 <!---
 lightme-fan/lightme-fan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
