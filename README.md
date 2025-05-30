@@ -4,18 +4,19 @@
   - SASS
   - Bootstrap
   - Styled-components
-  - React js / React Native / React leaflet / Echarts
+  - React js / React Native / React leaflet / Echarts / React flow
   - Typescript
   - Redux
   - Cypress.io
-  - Ant desing
-  - Readthedocs
+  - Ant design
+  - ReadTheDocs
   - Docker
   - Node js - Express js
   - Python
   - URQL
   - Material UI
   - Next js
+  - Nest js
 
 <!---
 lightme-fan/lightme-fan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
